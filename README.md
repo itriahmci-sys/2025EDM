@@ -257,7 +257,7 @@
 
                         
 
-</body>
+
         <div style="text-align: center; margin-top: 30px; border-top: 1px solid #ddd; padding-top: 20px;">
             <p style="font-size: 14px; color: #777;">主辦單位保留活動更動權利。期待與您共同引領健康台灣新未來！</p>
         </div>
