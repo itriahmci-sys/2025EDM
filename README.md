@@ -255,13 +255,7 @@
                                            Podcast智慧健康5分鐘                                   
                                         </a>
 
-                        </td>
-                    </tr>
-
-                </table>
-            </td>
-        </tr>
-    </table>
+                        
 
 </body>
         <div style="text-align: center; margin-top: 30px; border-top: 1px solid #ddd; padding-top: 20px;">
