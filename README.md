@@ -263,8 +263,7 @@
         </div>
 
     <meta charset="UTF-8">
-    <title>固定網址分享範例</title>
-    <style>
+     <style>
         /* 簡單的 CSS 樣式 */
         .share-button {
             display: inline-block;
