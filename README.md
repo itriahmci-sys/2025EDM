@@ -287,14 +287,14 @@
 
 <body>
 
-    <h1>點擊按鈕分享指定網頁</h1>
+    <h1>手機點擊按鈕分享指定網頁</h1>
 
     <a 
         href="https://social-plugins.line.me/lineit/share?url=https%3A%2F%2Fitriahmci-sys.github.io%2F2025EDM%2F" 
         target="_blank" 
         class="share-button line-button"
     >
-        分享 Line
+        分享到 Line
     </a>
 
     <a 
@@ -302,11 +302,8 @@
         target="_blank" 
         class="share-button facebook-button"
     >
-        分享 Facebook
+        分享到   FB
     </a>
 
-    <p>
-        **注意：** 在 `href` 屬性中，我已經將你的網址進行了 **URL 編碼 (URL Encoding)**，這是網路分享連結的標準做法，可以確保所有符號（例如 `:` 和 `/`）都能正確傳輸。
-    </p>
 </body>
 </html>
