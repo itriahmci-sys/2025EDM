@@ -259,3 +259,60 @@
             <p style="font-size: 14px; color: #777;">主辦單位保留活動更動權利。期待與您共同引領健康台灣新未來！</p>
         </div>
     </div>
+<head>
+    <meta charset="UTF-8">
+    <title>網頁分享範例</title>
+    <style>
+        /* 簡單的 CSS 樣式讓按鈕看起來更明顯 */
+        .share-button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-right: 15px;
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: opacity 0.3s;
+        }
+
+        .share-button:hover {
+            opacity: 0.8;
+        }
+
+        .line-button {
+            background-color: #00B900; /* Line 綠 */
+        }
+
+        .facebook-button {
+            background-color: #1877F2; /* Facebook 藍 */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>點擊下方按鈕分享此頁面</h1>
+
+    <a 
+        href="https://social-plugins.line.me/lineit/share?url=" 
+        target="_blank" 
+        class="share-button line-button"
+        onclick="this.href = 'https://social-plugins.line.me/lineit/share?url= https://itriahmci-sys.github.io/2025EDM/"
+    >
+        分享到 Line
+    </a>
+
+    <a 
+        href="https://www.facebook.com/sharer/sharer.php?u=" 
+        target="_blank" 
+        class="share-button facebook-button"
+        onclick="this.href = 'https://www.facebook.com/sharer/sharer.php?u=https://itriahmci-sys.github.io/2025EDM/"
+    >
+        分享到 Facebook
+    </a>
+
+    <p>
+        **注意：** 點擊分享按鈕後，會在新視窗中開啟 Line 或 Facebook 的分享介面。
+    </p>
+
+</body>
+</html>
