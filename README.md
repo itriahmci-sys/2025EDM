@@ -246,7 +246,7 @@
 
 
                             <p style="font-size: 22px; color: #333333; margin-bottom: 15px;">
-                                            👀　 看看我，聽聽我，不要錯我過喔　👂️
+                                            👀　 看看我，聽聽我，不要錯過我　👂️
                                         </p>
                                         <a href="https://forms.gle/tdLFWwx4GW6Wi78z8" target="_blank" style="display: inline-block; padding: 12px 25px; background-color: #CAE911; color: #333333; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 18px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);">
                                            健康樂活聯盟入會資訊                                   
@@ -286,7 +286,7 @@
 </head>
 <body>
 
-    <h1>手機點擊按鈕分享</h1>
+    <h1>手機點擊分享</h1>
 
     <a 
         href="https://social-plugins.line.me/lineit/share?url=https%3A%2F%2Fitriahmci-sys.github.io%2F2025EDM%2F" 
