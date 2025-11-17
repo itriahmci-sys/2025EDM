@@ -36,7 +36,7 @@
     <div class="container-lg px-3 my-5 markdown-body">
       
 
-      <h1 id="2025edm">2025EDM</h1>
+
 <html lang="zh-TW">
 <head>
 <style>
