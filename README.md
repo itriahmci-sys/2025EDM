@@ -11,7 +11,7 @@
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="https://itriahmci-sys.github.io/2025EDM/" />
 <meta property="og:url" content="https://itriahmci-sys.github.io/2025EDM/" />
-<meta property="og:site_name" content="2025EDM" />
+
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="2025EDM" />
