@@ -16,7 +16,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="2025EDM" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"2025EDM","name":"2025EDM","url":"https://itriahmci-sys.github.io/2025EDM/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","url":"https://itriahmci-sys.github.io/2025EDM/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/2025EDM/assets/css/style.css?v=f1935e8a572c47f09b5920969a216cd2aeaf74d2">
